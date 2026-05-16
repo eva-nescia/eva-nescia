@@ -1,5 +1,4 @@
-## *insert cringe introduction here*
-# Hello! My name is Exsel Octaviand Gosal. Mobile Application Developer based in Makassar. Currently grinding characters in Hoyoverse games.
+elades elasobi
 
 <!--
 **eva-nescia/eva-nescia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
